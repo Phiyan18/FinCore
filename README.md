@@ -183,3 +183,8 @@ python engine_mongo.py
 
 This project is for educational and demonstration purposes.
 
+## Running
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 001513" src="https://github.com/user-attachments/assets/c10b5486-8ed3-460b-82e2-f0617b1c2776" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 001534" src="https://github.com/user-attachments/assets/c66ba1bb-2739-41a3-83c3-abcf1bb6273c" />
+
