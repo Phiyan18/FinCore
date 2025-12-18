@@ -12,7 +12,7 @@ import datetime
 st.set_page_config(page_title="FinCore AI 2025 - Unified Dashboard", layout="wide", initial_sidebar_state="expanded")
 
 # SEC Identity Setup
-set_identity("allpubg576@gmail.com")
+set_identity("Your-Email@gmail.com")
 
 # ============================================================================
 # UTILITY FUNCTIONS
@@ -595,3 +595,4 @@ with tab5:
 st.sidebar.divider()
 st.sidebar.markdown("**FinCore AI 2025**")
 st.sidebar.markdown("Enterprise Financial Analytics")
+
